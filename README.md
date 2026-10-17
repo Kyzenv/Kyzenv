@@ -9,7 +9,7 @@
 
   <!-- Banner: Replace the src URL with your own custom image, GIF, or hosted video link -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=YOUR_NAME&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Software%20Development%20%7C%20Web%20Engineering&descAlignY=62&descSize=16" 
+    src="https://pin.it/2zYIwkBJi" 
     alt="Profile Banner" 
     width="100%" 
   />
@@ -82,17 +82,6 @@ To add a new project, copy and paste this template:
 * **Key Features:** Key technical highlights.
 * **Links:** [Live Demo](https://example.com) | [Repository](https://github.com/YOUR_USERNAME/repo-name)
 -->
-
----
-
-## Media Showcase
-
-<div align="center">
-  <!-- Place an image, GIF preview, or video demonstration of your flagship project here -->
-  <img src="https://via.placeholder.com/1200x500.png?text=Featured+Project+Preview+or+Video+GIF" alt="Featured Project Demo" width="100%" />
-</div>
-
-> *Tip: To display a video directly in your README, upload a `.mp4` file directly into your GitHub repository or commit it, then reference or attach it.*
 
 ---
 
