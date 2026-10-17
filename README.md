@@ -9,7 +9,7 @@
 
   <!-- Banner: Replace the src URL with your own custom image, GIF, or hosted video link -->
   <img 
-    src="https://pin.it/2zYIwkBJi" 
+    src="download.jpg" 
     alt="Profile Banner" 
     width="100%" 
   />
