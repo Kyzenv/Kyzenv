@@ -14,14 +14,14 @@
     width="100%" 
   />
 
-  <h1>YOUR_NAME</h1>
+  <h1>Kyzenv</h1>
   <p><strong>Web Developer</strong> &nbsp;|&nbsp; Building robust, accessible, and high-performance web applications.</p>
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/Kyzenv">
       <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <a href="https://github.com/Kyzenv?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-View_All-2563EB?style=flat-square&logo=github&logoColor=white" alt="View Repositories" />
     </a>
   </p>
@@ -100,12 +100,12 @@ To add a new project, copy and paste this template:
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=Kyzenv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" 
     alt="GitHub Statistics" 
     height="160" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyzenv&layout=compact&hide_border=true&theme=tokyonight" 
     alt="Top Languages" 
     height="160" 
   />
@@ -116,7 +116,7 @@ To add a new project, copy and paste this template:
 ## Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Kyzenv">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
